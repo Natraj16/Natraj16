@@ -5,7 +5,7 @@ Hi — I'm Natraj. I'm a software developer who builds projects across web and b
 
 - 🔭 Currently working on: personal projects in web and backend development
 - 🌱 Currently learning: new libraries, frameworks, and best practices
-- 📫 How to reach me: (add contact info)
+- 📫 How to reach me: kashyapnatraj@gmail.com
 
 ## Tech Stack
 These are the main languages and technologies used across my projects.
