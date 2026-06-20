@@ -1,43 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-## About Me
-Hi — I'm Natraj. I'm a software developer who builds projects across web and backend technologies. I work on small apps, learning new tools, and contributing to open-source when I can.
+# Hi 👋, I'm Raj
 
-- 🔭 Currently working on: personal projects in web and backend development
-- 🌱 Currently learning: new libraries, frameworks, and best practices
-- 📫 How to reach me: kashyapnatraj@gmail.com
+### Computer Science Student | Software Developer | AI Enthusiast
 
-## Tech Stack
-These are the main languages and technologies used across my projects.
+Building projects in AI, Computer Vision, Backend Development.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26+Computer+Vision+Enthusiast;Learning+Cybersecurity;Always+Building+Something+New" alt="Typing SVG" />
 
-## Featured Projects
-Here are some repositories from my profile — click a project name to view the code and README on GitHub.
+</div>
 
-- [ISRO-ANAV](https://github.com/Natraj16/ISRO-ANAV) — Implementation for Autonomous Navigation for an aerial vehicle. (Languages: repository contains research/implementation files)
-- [ANAV](https://github.com/Natraj16/ANAV) — ISRO IRoC U project related to autonomous navigation. (HTML)
-- [Sun_main](https://github.com/Natraj16/Sun_main) — JavaScript project (has 1 star).
-- [forage-midas](https://github.com/Natraj16/forage-midas) — Project repo for the JPMC Advanced Software Engineering Forage program.
-- [DevopsLab](https://github.com/Natraj16/DevopsLab) — Jenkins / DevOps-related examples and exercises. (Java)
-- [Zodiac-Sign-Finder](https://github.com/Natraj16/Zodiac-Sign-Finder) — Small app that returns your zodiac sign based on birth date and month. (HTML)
+---
 
-<!--
-**Natraj16/Natraj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Science Student
+- ☕ Learning and building with Java & Spring Boot
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📊 Practicing Data Structures & Algorithms
+- 🛡️ Learning Cybersecurity
+- 🌱 Focused on continuous learning and improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,spring,react,html,css,mysql,mongodb,git,github,maven,linux,vscode,idea" />
+</p>
+
+---
+
+## 🔭 Currently Working On
+
+- 🤖 Mood-Based Productivity Assistant
+- ☕ Spring Boot Projects
+- 📊 Data Structures & Algorithms
+- 🛡️ Cybersecurity Fundamentals
+- 🚁 Autonomous Drone Systems
+
+---
+
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,spring,docker,kubernetes" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natraj16&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Natraj16&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natraj16&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+<p>
+  🤖 Artificial Intelligence <br>
+  👁️ Computer Vision <br>
+  ☕ Backend Development <br>
+  📊 Data Structures & Algorithms <br>
+  🌐 Open Source <br>
+</p>
+
+---
+
+## 🎯 Goals
+
+- Master DSA and Problem Solving
+- Build Production-Ready Applications
+- Learn AI Engineering
+- Contribute to Open Source
+- Secure Software Engineering Opportunities
+- Build Technology That Solves Real Problems
+
+---
+
+## 💡 Philosophy
+
+> Consistency beats motivation.
+>
+> Build. Learn. Improve. Repeat.
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
