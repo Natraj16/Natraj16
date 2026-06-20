@@ -31,16 +31,6 @@ Building projects in AI, Computer Vision, Backend Development.
 
 ---
 
-## 🔭 Currently Working On
-
-- 🤖 Mood-Based Productivity Assistant
-- ☕ Spring Boot Projects
-- 📊 Data Structures & Algorithms
-- 🛡️ Cybersecurity Fundamentals
-- 🚁 Autonomous Drone Systems
-
----
-
 ## 🌱 Currently Learning
 
 <p align="left">
