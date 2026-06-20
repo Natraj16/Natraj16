@@ -103,6 +103,21 @@ Building projects in AI, Computer Vision, Backend Development.
 > Build. Learn. Improve. Repeat.
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/natrajkashyap0216">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/0216_raj">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:kashyapnatraj@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 <div align="center">
 
