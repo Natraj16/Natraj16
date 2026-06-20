@@ -17,6 +17,16 @@ These are the main languages and technologies used across my projects.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Featured Projects
+Here are some repositories from my profile — click a project name to view the code and README on GitHub.
+
+- [ISRO-ANAV](https://github.com/Natraj16/ISRO-ANAV) — Implementation for Autonomous Navigation for an aerial vehicle. (Languages: repository contains research/implementation files)
+- [ANAV](https://github.com/Natraj16/ANAV) — ISRO IRoC U project related to autonomous navigation. (HTML)
+- [Sun_main](https://github.com/Natraj16/Sun_main) — JavaScript project (has 1 star).
+- [forage-midas](https://github.com/Natraj16/forage-midas) — Project repo for the JPMC Advanced Software Engineering Forage program.
+- [DevopsLab](https://github.com/Natraj16/DevopsLab) — Jenkins / DevOps-related examples and exercises. (Java)
+- [Zodiac-Sign-Finder](https://github.com/Natraj16/Zodiac-Sign-Finder) — Small app that returns your zodiac sign based on birth date and month. (HTML)
+
 <!--
 **Natraj16/Natraj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
