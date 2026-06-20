@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Raj
+# Hi 👋, I'm Natraj
 
 ### Computer Science Student | Software Developer | AI Enthusiast
 
