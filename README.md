@@ -46,10 +46,7 @@ Building projects in AI, Computer Vision, Backend Development.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Natraj16&theme=tokyonight"/>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Natraj16&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
--------
+---
 
 ## 🔥 GitHub Streak
 
