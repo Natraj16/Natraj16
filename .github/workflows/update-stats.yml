@@ -1,0 +1,35 @@
+name: Update GitHub stats SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # daily at 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download GitHub stats
+        run: |
+          mkdir -p assets
+          curl -fsSL "https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" -o assets/github-stats.svg || echo "github-stats download failed"
+          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs?username=Natraj16&layout=compact&theme=tokyonight" -o assets/top-langs.svg || echo "top-langs download failed"
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg || true
+          if ! git diff --quiet --cached; then
+            git commit -m "chore: update cached github stats svgs"
+            git push
+          else
+            echo "No changes to commit"
+          fi
