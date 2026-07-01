@@ -6,7 +6,7 @@
 
 Building projects in AI, Computer Vision, Backend Development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26+Computer+Vision+Enthusiast;Learning+Cybersecurity;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26[...]" />
 
 </div>
 
@@ -41,8 +41,8 @@ Building projects in AI, Computer Vision, Backend Development.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natraj16&layout=compact&theme=tokyonight" height="170" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" height="170" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natraj16&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
