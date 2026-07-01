@@ -37,15 +37,15 @@ Building projects in AI, Computer Vision, Backend Development.
   <img src="https://skillicons.dev/icons?i=python,spring,docker,kubernetes" />
 </p>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="GitHub stats" src="./assets/github-stats.svg" height="170" />
-  <img alt="Top languages" src="./assets/top-langs.svg" height="170" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natraj16&theme=tokyonight"/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Natraj16&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Natraj16&theme=tokyonight"/>
+</p>
 
 ## 🔥 GitHub Streak
 
