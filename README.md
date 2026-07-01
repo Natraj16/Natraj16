@@ -41,8 +41,8 @@ Building projects in AI, Computer Vision, Backend Development.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" height="170" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Natraj16&layout=compact&theme=tokyonight" height="170" />
+  <img alt="GitHub stats" src="./assets/github-stats.svg" height="170" />
+  <img alt="Top languages" src="./assets/top-langs.svg" height="170" />
 </p>
 
 ---
