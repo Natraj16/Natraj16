@@ -48,11 +48,6 @@ Building projects in AI, Computer Vision, Backend Development.
 </p>
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Natraj16&theme=tokyonight" />
-</p>
 
 ---
 
