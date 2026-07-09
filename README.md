@@ -6,7 +6,7 @@
 
 Building projects in AI, Computer Vision, Backend Development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26+Machine+Learning;Backend+Developer" alt="Typing Animation"/>
 
 </div>
 
@@ -26,7 +26,7 @@ Building projects in AI, Computer Vision, Backend Development.
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,spring,react,html,css,mysql,mongodb,git,github,maven,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,spring,react,html,css,mysql,mongodb,git,github,maven,linux,vscode,idea" alt="Tech Stack"/>
 </p>
 
 ---
@@ -34,27 +34,48 @@ Building projects in AI, Computer Vision, Backend Development.
 ## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,spring,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,spring,docker,kubernetes" alt="Currently Learning"/>
 </p>
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natraj16&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Natraj16&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Natraj16&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natraj16&theme=tokyonight" alt="Profile Details"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Natraj16&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Natraj16&theme=tokyonight" alt="Most Commit Language"/>
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Natraj16&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natraj16&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natraj16&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natraj16&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natraj16&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -89,21 +110,22 @@ Building projects in AI, Computer Vision, Backend Development.
 > Build. Learn. Improve. Repeat.
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/natrajkashyap0216">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://x.com/0216_raj">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:kashyapnatraj@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="https://linkedin.com/in/natrajkashyap0216" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/0216_raj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+  </a>
+  <a href="mailto:kashyapnatraj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </p>
+
+---
 
 <div align="center">
 
