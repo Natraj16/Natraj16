@@ -6,7 +6,7 @@
 
 Building projects in AI, Computer Vision, Backend Development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26[...]" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;AI+%26[...]
 
 </div>
 
@@ -54,7 +54,7 @@ Building projects in AI, Computer Vision, Backend Development.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natraj16&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natraj16&theme=tokyonight" />
 </p>
 
 ---
