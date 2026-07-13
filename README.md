@@ -95,7 +95,7 @@ Building projects in AI, Computer Vision, Backend Development.
 
 ## 💡 Philosophy
 
-> Consistency b
+
 
 ---
 
