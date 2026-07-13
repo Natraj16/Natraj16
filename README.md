@@ -97,7 +97,7 @@ Building projects in AI, Computer Vision, Backend Development.
 
 > Consistency beats motivation.
 >
-> Build. Learn. Improve. Repeat
+> Build. Learn. 
 ---
 
 ## 🌐 Connect With Me
