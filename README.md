@@ -93,12 +93,6 @@ Building projects in AI, Computer Vision, Backend Development.
 
 ---
 
-## 💡 Philosophy
-
-
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
