@@ -3,7 +3,7 @@ name: Update GitHub stats SVGs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # daily at 00:00 UTC
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
@@ -16,20 +16,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Natraj16
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Download GitHub stats
         run: |
           mkdir -p assets
-          curl -fsSL "https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" -o assets/github-stats.svg || echo "github-stats download failed"
-          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs?username=Natraj16&layout=compact&theme=tokyonight" -o assets/top-langs.svg || echo "top-langs download failed"
+          curl -fsSL "https://github-readme-stats.vercel.app/api?username=Natraj16&show_icons=true&theme=tokyonight" \
+            -o assets/github-stats.svg
+          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs?username=Natraj16&layout=compact&theme=tokyonight" \
+            -o assets/top-langs.svg
 
       - name: Commit files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-langs.svg || true
-          if ! git diff --quiet --cached; then
-            git commit -m "chore: update cached github stats svgs"
+          git add output assets/github-stats.svg assets/top-langs.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update GitHub contribution snake"
             git push
-          else
-            echo "No changes to commit"
           fi
